@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /
+title: Die Pfalz
 ---
 
 This is the home page. pfalz
