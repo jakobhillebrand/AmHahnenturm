@@ -4,7 +4,7 @@
 
   <body>
     <div id="layout" class="pure-g">
-      {% assign cover = site.cover | default: "{{ cover.jpg | relative_url }}" %}
+      {% assign cover = site.cover | default: "https://jakobhillebrand.github.io/hydure_og/cover.jpg" %}
       {% if page.cover %}
         {% assign cover = page.cover %}
       {% endif %}
