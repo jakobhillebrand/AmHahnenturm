@@ -1,12 +1,14 @@
 - selector: example_slider
   captions: true
+  bullets: true
   images:
-    - src: https://via.placeholder.com/150
+    - src: https://via.placeholder.com/600x200
       alt: image one
-    - src: https://via.placeholder.com/150
+    - src: https://via.placeholder.com/600x200
       alt: image two
-    - src: https://via.placeholder.com/150
+    - src: https://via.placeholder.com/600x200
       alt: image three
   settings:
-    height: "'auto'"
-    effect: "'fade'"
+    height: "'16:9'"
+    effect: "'slide'"
+    interval: 6000
