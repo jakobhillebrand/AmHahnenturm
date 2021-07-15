@@ -5,7 +5,7 @@ title: Die Pfalz
 ---
 
 > Erholung ist Pflege, die jeder Mensch sich leisten sollte.\
-> <small>*Kurt Haberstich*</small>
+> <sup><sub>*Kurt Haberstich*</sub></sup>
 
 > **... und ein Glas guter Wein hat noch niemandem geschadet.**
 
