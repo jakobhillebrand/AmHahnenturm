@@ -4,4 +4,9 @@
 {% if page.image_sliders or layout.image_sliders or page.image_sliders_load_all -%}
 <link rel="stylesheet" href="{{ "https://cdnjs.cloudflare.com/ajax/libs/ideal-image-slider/1.5.1/ideal-image-slider.css" | relative_url }}">
 <link rel="stylesheet" href="{{ "https://cdnjs.cloudflare.com/ajax/libs/ideal-image-slider/1.5.1/themes/default/default.css" | relative_url }}">
+<style>
+  .iis-caption {
+    border-radius: .1em;
+  }
+</style>
 {%- endif -%}
