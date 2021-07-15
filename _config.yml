@@ -3,3 +3,6 @@ tagline: A concise two-column blog theme for Jekyll
 
 author:
   name: Hillebrand
+  
+plugins:
+  - jekyll-seo-tag
