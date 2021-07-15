@@ -10,5 +10,12 @@
       alt: image three
   settings:
     height: "'auto'"
-    effect: "'fade'"
+    initialHeight:
+    maxHeight:
     interval: 6000
+    transitionDuration:
+    effect: "'slide'"
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
