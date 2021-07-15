@@ -9,6 +9,6 @@
     - src: https://via.placeholder.com/600x200
       alt: image three
   settings:
-    height: "'16:9'"
+    height: "'auto'"
     effect: "'fade'"
     interval: 6000
