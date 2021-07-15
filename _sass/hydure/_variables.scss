@@ -4,7 +4,7 @@ $lg-screen: 64rem;
 $xl-screen: 80rem;
 
 :root {
-  --body-font-size: 16px;
+  --body-font-size: 14px;
   --body-line-height: 1.5;
   --body-color:       var(--oc-gray-9);
   --body-color-light: var(--oc-gray-6);
@@ -22,7 +22,7 @@ $xl-screen: 80rem;
   --message-color: var(--oc-white);
   --message-bg:    var(--oc-yellow-9);
 
-  --border-radius: .5em;
+  --border-radius: .1em;
   --border-color:  var(--oc-gray-3);
 
   --code-bg:       var(--oc-gray-1);
