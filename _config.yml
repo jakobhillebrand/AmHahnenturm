@@ -4,5 +4,8 @@ tagline: Erholung in der Pfalz
 author:
   name: Hillebrand
   
+markdown:         kramdown
+highlighter:      rouge
+  
 plugins:
   - jekyll-seo-tag
