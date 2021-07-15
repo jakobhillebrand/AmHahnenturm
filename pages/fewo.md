@@ -2,6 +2,8 @@
 layout: page
 permalink: /fewo/
 title: Ferienwohnung
+image_sliders:
+  - example_slider
 ---
 
 This is the home page. fewo
