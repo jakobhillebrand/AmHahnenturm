@@ -1,8 +1,8 @@
-title: Am Hahnenturm
-tagline: Erholung in der Pfalz
+title:            Am Hahnenturm
+tagline:          Erholung in der Pfalz
 
 author:
-  name: Hillebrand
+  name:           Hillebrand
   
 markdown:         kramdown
 highlighter:      rouge
