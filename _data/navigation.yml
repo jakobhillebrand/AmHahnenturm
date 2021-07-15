@@ -1,10 +1,11 @@
-- title: Ferienwohnung
+- title: Die Pfalz
   url: /
+- title: Ferienwohnung
+  url: /fewo/
 - title: Apartment
   url: /apt/
 - title: Buchen
   url: /about/
 - title: Anfahrt
   url: /about/
-- title: Sonstiges
-  url: /about/
+  
