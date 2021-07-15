@@ -12,8 +12,8 @@
     height: "'auto'"
     initialHeight:
     maxHeight:
-    interval: 6000
-    transitionDuration:
+    interval: 10000
+    transitionDuration: 500
     effect: "'slide'"
     disableNav:
     keyboardNav:
