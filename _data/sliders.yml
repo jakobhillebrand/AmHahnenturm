@@ -9,8 +9,8 @@
     - src: https://via.placeholder.com/600x100
       alt: image three
   settings:
-    height: "'auto'"
-    initialHeight: 300
+    height: "'16:9'"
+    initialHeight:
     maxHeight:
     interval: 12000
     transitionDuration: 600
