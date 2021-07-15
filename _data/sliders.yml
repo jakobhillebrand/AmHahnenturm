@@ -10,7 +10,7 @@
       alt: image three
   settings:
     height: "'auto'"
-    initialHeight:
+    initialHeight: 300
     maxHeight:
     interval: 12000
     transitionDuration: 600
