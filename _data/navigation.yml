@@ -1,6 +1,14 @@
 - title: Home
   url: /
+- title: Ferienwohnung
+  url: /
+- title: Apartment
+  url: /apt/
 - title: About
   url: /about/
-- title: GitHub
-  url: https://github.com/zivong/jekyll-theme-hydure
+- title: Buchen
+  url: /about/
+- title: Anfahrt
+  url: /about/
+- title: Sonstiges
+  url: /about/
