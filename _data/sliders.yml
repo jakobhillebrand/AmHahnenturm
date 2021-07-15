@@ -2,11 +2,11 @@
   captions: true
   bullets: true
   images:
-    - src: https://via.placeholder.com/600x200
+    - src: https://via.placeholder.com/600x300
       alt: image one
     - src: https://via.placeholder.com/600x200
       alt: image two
-    - src: https://via.placeholder.com/600x200
+    - src: https://via.placeholder.com/600x100
       alt: image three
   settings:
     height: "'auto'"
