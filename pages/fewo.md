@@ -7,7 +7,7 @@ image_sliders: example_slider
 
 This is the home page. fewo
 
-<div class="align-right" style="width: 60%">
+<div class="align-right" style="width: 66%">
 {% include slider.html selector="example_slider" %}
 </div>
 
