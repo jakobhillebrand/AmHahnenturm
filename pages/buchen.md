@@ -4,7 +4,7 @@ permalink: /buchen/
 title: Buchen
 ---
 
-|---
+
 | Default aligned | Left aligned | Center aligned | Right aligned
 |-|:-|:-:|-:
 | First body part | Second cell | Third cell | fourth cell
@@ -15,17 +15,4 @@ title: Buchen
 | 2 line
 |===
 | Footer row
-|----+----|
-+----|----+
-|---------|
-|-
-| :-----: |
--|-
-|---+---+---|
-+ :-: |:------| ---:|
-| :-: :- -: -
-:-: | :-
-|====+====|
-+====|====+
-|=========|
-|=
+
