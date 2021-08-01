@@ -5,7 +5,8 @@ title: Buchen
 ---
 
 Sie möchten gerne bei uns einkehren?\
-Unten sehen Sie alle derzeitigen Belegungen. – Hoffen Sie mal, dass für Sie frei ist.\
+Unten sehen Sie alle derzeitigen Belegungen. – Hoffen Sie mal, dass für Sie frei ist.
+<br/>
 
 
 ### Buchungskalender
