@@ -27,3 +27,4 @@ Unten sehen Sie alle derzeitigen Belegungen. – Hoffen Sie mal, dass für Sie f
 |===
 | Footer row
 
+<span style="font-size:6px;"><a href="https://www.belegungskalender-kostenlos.de/" rel="nofollow">Belegungskalender online</a></span>
