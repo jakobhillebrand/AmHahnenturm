@@ -12,9 +12,6 @@ Unten sehen Sie alle derzeitigen Belegungen. – Hoffen Sie mal, dass für Sie f
 <span style="font-size:9px;"><a href="https://www.belegungskalender-kostenlos.de/" rel="nofollow" style="font-size:9px;">Belegungskalender online</a></span>
 <div>
 
-\
-\
-
 
 ### Unsere Preise
 
