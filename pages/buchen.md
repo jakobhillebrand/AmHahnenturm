@@ -10,7 +10,7 @@ Unten sehen Sie alle derzeitigen Belegungen. – Hoffen Sie mal, dass für Sie f
 
 ### Buchungskalender
 <div  style="font-family: Times New Roman, Times, serif;">
-<iframe width="100%" height="360" frameborder="0" loading="eager" referrerpolicy="no-referrer-when-downgrade" src="https://api.belegungskalender-kostenlos.de/kalender.php?   kid=42801" title="Belegungskalender"><p>Ihr Browser kann das Kalender-Frame leider nicht anzeigen. Um den Kalender zu sehen klicken Sie bitte hier: <a href="https://api.belegungskalender-kostenlos.de/kalender.php?kid=42801">https://api.belegungskalender-kostenlos.de/kalender.php?kid=42801</a></p></iframe><br />
+<iframe width="100%" height="100%" frameborder="0" loading="eager" referrerpolicy="no-referrer-when-downgrade" src="https://api.belegungskalender-kostenlos.de/kalender.php?   kid=42801" title="Belegungskalender"><p>Ihr Browser kann das Kalender-Frame leider nicht anzeigen. Um den Kalender zu sehen klicken Sie bitte hier: <a href="https://api.belegungskalender-kostenlos.de/kalender.php?kid=42801">https://api.belegungskalender-kostenlos.de/kalender.php?kid=42801</a></p></iframe><br />
 <span style="font-size:9px;"><a href="https://www.belegungskalender-kostenlos.de/" rel="nofollow" style="font-size:9px;">Belegungskalender online</a></span>
 </div>
 
