@@ -111,6 +111,10 @@ thead th {
   border-bottom-color: currentColor;
 }
 
+tfoot th {
+  border-top-color: currentColor;
+}
+
 mark {
   padding: .15em;
   border-radius: var(--border-radius);
