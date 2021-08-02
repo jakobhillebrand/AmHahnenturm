@@ -14,6 +14,13 @@ Unten sehen Sie alle derzeitigen Belegungen. – Hoffen Sie mal, dass für Sie f
 
 ## Unsere Preise
 
+|  | Ferienwohnung | Apartment
+|:-|:-|:-
+| 1 Übernachtung | € | €
+| 2 Übernachtungen | € | €
+|===
+| Endreinigung | € 
+
 | Default aligned | Left aligned | Center aligned | Right aligned
 |-|:-|:-:|-:
 | First body part | Second cell | Third cell | fourth cell
