@@ -43,7 +43,7 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 |über Sylvester, Altstadt- & Stadtmauerfest | € | .
 
 
-<!-- BEISPIEL-TABELLE
+<!- BEISPIEL-TABELLE
 
 | Default aligned | Left aligned | Center aligned | Right aligned
 |-|:-|:-:|-:
