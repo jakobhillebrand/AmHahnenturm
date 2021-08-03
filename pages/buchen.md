@@ -30,7 +30,7 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
   }
 </style>
 
-| Preise für bis zu 2 Personen inkl. NK[^1] | Ferienwohnung | Apartment
+| Preise für bis zu 2 Personen inkl. NK<sup>[1](#note1)</sup> | Ferienwohnung | Apartment
 |:-|:-|:-
 | 1 Übernachtung | € | €
 | 2 Übernachtungen | € | €
@@ -50,7 +50,7 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 
 <small>
   <hr style="width: 33%">
-  <sup>1</sup>: Hierzu zählen wir Bettwäsche, Handtücher, WLAN und eine Endreinigung.
+  1{: #note1}: Hierzu zählen wir Bettwäsche, Handtücher, WLAN und eine Endreinigung.
 </small>
 
 <!-- BEISPIEL-TABELLE
