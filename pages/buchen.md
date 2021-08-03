@@ -21,6 +21,15 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 ## Unsere Preise
 {: #preise}
 
+<style>
+  table {
+    width: fit-content;
+  }
+  td, th {
+    padding-right: 1.5em;
+  }
+</style>
+
 | Preise für bis zu 2 Personen inkl. NK | Ferienwohnung | Apartment
 |:-|:-|:-
 | 1 Übernachtung | € | €
@@ -33,14 +42,6 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 | ... 1–2 Übernachtung/en | € | &nbsp; | &nbsp;
 | ... 3+ Übernachtungen | € | &nbsp; | &nbsp;
 | über Sylvester, Altstadt- & Stadtmauerfest | € | &nbsp; | &nbsp;
-
-
-| Aufpreise | . | .
-|:-|:-|:-
-| für jede weitere Person bei | . | .
-| ... 1–2 Übernachtung/en | € | .
-| ... 3+ Übernachtungen | € | .
-|über Sylvester, Altstadt- & Stadtmauerfest | € | .
 
 
 <!-- BEISPIEL-TABELLE
