@@ -113,6 +113,8 @@ thead th {
 
 tfoot td {
   border-top-color: currentColor;
+  border-top-width: 1px;
+  background-color: var(--border-color);
 }
 
 mark {
