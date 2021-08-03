@@ -26,7 +26,7 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
     width: fit-content;
   }
   td, th {
-    padding-right: 1.5em;
+    padding-right: 2em;
   }
 </style>
 
@@ -52,6 +52,7 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 <small>
   <p id="note1">1: Hierzu zählen wir Bettwäsche, Handtücher, WLAN und eine Endreinigung.</p>
 </small>
+
 
 
 <!-- BEISPIEL-TABELLE
