@@ -27,7 +27,7 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 | 2 Übernachtungen | € | €
 
 
-| Aufpreise | &nbsp; | &nbsp;
+| Aufpreise | &nbsp; | &nbsp; | &nbsp;
 |:-|:-|:-|:-
 | für jede weitere Person bei | &nbsp; | &nbsp; | &nbsp;
 | ... 1–2 Übernachtung/en | € | &nbsp; | &nbsp;
