@@ -49,8 +49,7 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 
 
 <small>
-  <hr style="width: 33%">
-  1{: #note1}: Hierzu zählen wir Bettwäsche, Handtücher, WLAN und eine Endreinigung.
+  <p id="note1">1: Hierzu zählen wir Bettwäsche, Handtücher, WLAN und eine Endreinigung.</p>
 </small>
 
 <!-- BEISPIEL-TABELLE
