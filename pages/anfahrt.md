@@ -8,7 +8,7 @@ Da wir am Rand der ruhigen Altstadt gelegen sind, kann die Anfahrt und das Parke
 Sie können sich daher diese Seite auch gerne für die Reise <a href="#" onclick="print();">ausdrucken</a>. (Notiz: vllt besser Liste als PDF)
 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=198nUZXDdxfUdQHutyaJf9vvpMBuMamG9" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=198nUZXDdxfUdQHutyaJf9vvpMBuMamG9" width="640" height="480" frameborder="0"></iframe>
 
 
 
