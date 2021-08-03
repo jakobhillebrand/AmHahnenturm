@@ -27,9 +27,9 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 | 2 Übernachtungen | € | €
 
 
-| Aufpreise | Left aligned | &nbsp;
+| Aufpreise | &nbsp; | &nbsp;
 |:-|:-|:-|:-
-| für jede weitere Person bei | Second cell | &nbsp; | &nbsp;
+| für jede weitere Person bei | &nbsp; | &nbsp; | &nbsp;
 | ... 1–2 Übernachtung/en | € | &nbsp; | &nbsp;
 | ... 3+ Übernachtungen | € | &nbsp; | &nbsp;
 | über Sylvester, Altstadt- & Stadtmauerfest | € | &nbsp; | &nbsp;
