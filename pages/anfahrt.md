@@ -8,7 +8,7 @@ Da wir am Rand der ruhigen Altstadt gelegen sind, kann die Anfahrt und das Parke
 Sie können sich daher diese Seite auch gerne für die Reise <a href="" onclick="print();">ausdrucken</a>. (Notiz: vllt besser Liste als PDF)
 
 <p class="message" style="width: 50%">
-  <b>Adresse:</b>
+  <b>Adresse:</b> <br/>
   Fam. Hillebrand <br/>
   Südliche Ringstraße 35 <br/>
   67251 Freinsheim
