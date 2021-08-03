@@ -26,12 +26,14 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 | 1 Übernachtung | € | €
 | 2 Übernachtungen | € | €
 
+
 | Aufpreise
 |:-
 | für jede weitere Person bei
 | ... 1–2 Übernachtung/en | €
 | ... 3+ Übernachtungen | €
 |über Sylvester, Altstadt- & Stadtmauerfest | €
+
 
 | Aufpreise | . | .
 |:-|:-|:-
