@@ -27,12 +27,17 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 | 2 Übernachtungen | € | €
 
 
-| Aufpreise | t
-|:-|:-
-| für jede weitere Person bei | t
-| ... 1–2 Übernachtung/en | €
-| ... 3+ Übernachtungen | €
-|über  | €
+| Aufpreise | Left aligned | Center aligned | Right aligned
+|-|:-|:-:|-:
+| für jede weitere Person bei | Second cell | Third cell | fourth cell
+| ... 1–2 Übernachtung/en |€ | **strong** | baz
+| ... 3+ Übernachtungen |€ | baz | bar
+| über Sylvester, Altstadt- & Stadtmauerfest |€ | baz | bar
+|---
+| Second body
+| 2 line
+|===
+| Footer row
 
 
 | Aufpreise | . | .
@@ -43,7 +48,7 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 |über Sylvester, Altstadt- & Stadtmauerfest | € | .
 
 
-<!- BEISPIEL-TABELLE
+<!-- BEISPIEL-TABELLE
 
 | Default aligned | Left aligned | Center aligned | Right aligned
 |-|:-|:-:|-:
