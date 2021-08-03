@@ -1,6 +1,6 @@
 - selector: fewo_slider
   captions: true
-  bullets: true
+  bullets: false
   images:
     - src: https://via.placeholder.com/600x300
       alt: image one
@@ -23,7 +23,7 @@
 
 - selector: apt_slider
   captions: true
-  bullets: true
+  bullets: false
   images:
     - src: https://via.placeholder.com/600x300
       alt: image one
