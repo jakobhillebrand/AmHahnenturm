@@ -8,7 +8,7 @@ Sie möchten gerne bei uns einkehren? Unten sehen Sie, ob Ihr Wunsch-Zeitraum no
 Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl für die Ferienwohnung als auch für das Apartment.
 <br/>
 <br/>
-**Buchungsanfragen nehmen wir im Normalfall per [Anruf oder E-Mail](kontakt.md){:target="_blank"} an.**
+**Buchungsanfragen nehmen wir in der Regel per [Anruf oder E-Mail](kontakt.md){:target="_blank"} an.**
 <br/>
 
 <sup style="margin-top:2em" class="align-right"><sub><a href="https://www.belegungskalender-kostenlos.de/" target="_blank" rel="nofollow">*via Webservice*</a></sub></sup>
