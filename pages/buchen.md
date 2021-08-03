@@ -4,8 +4,11 @@ permalink: /buchen/
 title: Buchen
 ---
 
-Sie möchten gerne bei uns einkehren?\
-Unten sehen Sie alle derzeitigen Belegungen. – Hoffen Sie mal, dass für Sie frei ist.
+Sie möchten gerne bei uns einkehren? Unten sehen Sie, ob Ihr Wunsch-Zeitraum noch frei ist.\
+Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl für die Ferienwohnung als auch für das Apartment.
+<br/>
+**Buchungsanfragen nehmen wir im Normalfall per [Anruf oder E-Mail](kontakt.md) an.**
+
 <br/>
 <br/>
 
@@ -13,6 +16,7 @@ Unten sehen Sie alle derzeitigen Belegungen. – Hoffen Sie mal, dass für Sie f
 ## Buchungskalender
 <iframe width="100%" height="400" frameborder="0" loading="eager" referrerpolicy="no-referrer-when-downgrade" src="https://api.belegungskalender-kostenlos.de/kalender.php?   kid=42801" title="Belegungskalender"><p>Ihr Browser kann das Kalender-Frame leider nicht anzeigen. Um den Kalender zu sehen klicken Sie bitte hier: <a href="https://api.belegungskalender-kostenlos.de/kalender.php?kid=42801">https://api.belegungskalender-kostenlos.de/kalender.php?kid=42801</a></p></iframe>
 
+<a href="#preise"></a>
 ## Unsere Preise
 
 |  | Ferienwohnung | Apartment
