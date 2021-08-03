@@ -13,6 +13,6 @@ Bevor Sie uns kontaktieren, empfehlen wir jedoch, dass Sie sich im [Buchungskale
   Dirk & Monika Hillebrand <br/>
   Südliche Ringstraße 35 <br/>
   67251 Freinsheim  <br/><br/>
-  E-Mail: <br/>
-  Telefon:
+  E-Mail: <a href= "mailto:hillebrands@web.de">hillebrands@web.de</a> <br/>
+  Telefon: +49 6353 508872
 </p>
