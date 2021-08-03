@@ -47,8 +47,7 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 | &nbsp;&nbsp;&nbsp; bei 3+ Übernachtungen | € | &nbsp; | &nbsp;
 | über Sylvester, Altstadt- & Stadtmauerfest | € | &nbsp; | &nbsp;
 
-{::options parse_block_html="true" /}
-<div>
+<div markdown="1">
 <small>
 ____________________<br/>
 [^1]: Hierzu zählen wir Bettwäsche, Handtücher, WLAN und eine Endreinigung.
