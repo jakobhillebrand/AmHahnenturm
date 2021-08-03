@@ -1,4 +1,27 @@
-- selector: example_slider
+- selector: fewo_slider
+  captions: true
+  bullets: true
+  images:
+    - src: https://via.placeholder.com/600x300
+      alt: image one
+    - src: https://via.placeholder.com/600x200
+      alt: image two
+    - src: https://via.placeholder.com/600x100
+      alt: image three
+  settings:
+    height: "'16:9'"
+    initialHeight:
+    maxHeight:
+    interval: 12000
+    transitionDuration: 600
+    effect: "'slide'"
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+
+- selector: apt_slider
   captions: true
   bullets: true
   images:
