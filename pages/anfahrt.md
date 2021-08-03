@@ -19,6 +19,7 @@ Manche Navigationsgeräte scheinen komischerweise unsere Straße nicht zu kennen
 </small>
 
 
+
 ## Parken
 Die Karte unten zeigt Ihnen ein paar der Parkmöglichkeiten in der Nähe. Für mehr Informationen klicken Sie einfach auf den jeweiligen Pin.\
 **Um Ihr Gepäck auszuladen, können Sie selbstverständlich bis an die Unterkunft heranfahren!** Doch hat die Straße an einem Ende eine Engstelle (ca. 1,80 m), durch die ein paar wenige Automodelle nicht passen würden. Sie können sich gerne hierzu nochmals bei uns erkundigen.
