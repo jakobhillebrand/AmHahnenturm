@@ -30,19 +30,24 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
   }
 </style>
 
-| Preise für bis zu 2 Personen inkl. NK | Ferienwohnung | Apartment
+| Preise für bis zu 2 Personen inkl. NK[^1] | Ferienwohnung | Apartment
 |:-|:-|:-
 | 1 Übernachtung | € | €
 | 2 Übernachtungen | € | €
+| 3 Übernachtungen | € | €
+| 4–9 Übernachtungen | € | €
+| 10–13 Übernachtungen | € | €
+| 14+ Übernachtungen | € | €
 
 
 | Aufpreise | &nbsp; | &nbsp; | &nbsp;
 |:-|:-|:-|:-
-| für jede weitere Person bei | &nbsp; | &nbsp; | &nbsp;
-| ... 1–2 Übernachtung/en | € | &nbsp; | &nbsp;
-| ... 3+ Übernachtungen | € | &nbsp; | &nbsp;
+| für jede weitere Person | &nbsp; | &nbsp; | &nbsp;
+| &nbsp;&nbsp;&nbsp; bei 1–2 Übernachtung/en | € | &nbsp; | &nbsp;
+| &nbsp;&nbsp;&nbsp; bei 3+ Übernachtungen | € | &nbsp; | &nbsp;
 | über Sylvester, Altstadt- & Stadtmauerfest | € | &nbsp; | &nbsp;
 
+[^1]: Hierzu zählen wir Bettwäsche, Handtücher, WLAN und eine Endreinigung.
 
 <!-- BEISPIEL-TABELLE
 
