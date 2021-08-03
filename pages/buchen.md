@@ -21,16 +21,16 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 ## Unsere Preise
 {: #preise}
 
-|  | Ferienwohnung | Apartment
+| Preise für bis zu 2 Personen inkl. NK  | Ferienwohnung | Apartment
 |:-|:-|:-
 | 1 Übernachtung | € | €
 | 2 Übernachtungen | € | €
 |---
 | <br/> **Aufpreise**
 |:-
-|pro Person | € 
-|===
-| Endreinigung | € 
+|für jede weitere Person | 1–2 Übernachtung/en  | € 
+|                        | 3+ Übernachtungen    | €
+
 
 <!-- BEISPIEL-TABELLE
 
