@@ -17,7 +17,7 @@ Sie können sich daher diese Seite auch gerne für die Reise <a href="" onclick=
 <small>
 Manche Navigationsgeräte scheinen komischerweise unsere Straße nicht zu kennen. Falls dies bei Ihnen der Fall sein sollte, geben Sie bitte alternativ die „Bärengasse“ oder „Auf der Schanz“ ein. Eine genauere Verortung können Sie der Karte unten entnehmen.
 </small>
-<br/>
+<br/> 
 <br/>
 
 
