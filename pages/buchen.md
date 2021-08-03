@@ -25,6 +25,9 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 |:-|:-|:-
 | 1 Übernachtung | € | €
 | 2 Übernachtungen | € | €
+|---
+| **Aufpreise**
+| pro Person | € 
 |===
 | Endreinigung | € 
 
