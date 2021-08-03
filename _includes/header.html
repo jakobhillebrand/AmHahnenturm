@@ -1,8 +1,40 @@
+<style>
+  hr { 
+    background: url('https://i.ibb.co/rvY9W4K/hahn.png') no-repeat top center;
+    background-size: contain;
+    display: block;
+    height: 18px;
+    border: 0;
+    position: relative;
+}
+hr:before,
+hr:after {
+    content: '';
+    display: block;
+    position: absolute;
+    background: #d7d7d7;
+    height: 2px;
+    top: 8px;
+}
+hr:before {
+    left: 0;
+    right: 50%;
+    margin-right: 10px;
+}
+hr:after {
+    right: 0;
+    left: 50%;
+    margin-left: 10px;
+}
+</style>
+
 <header class="header">
   <p class="brand-title">{{ site.title }}</p>
   <p class="brand-tagline">{{ site.tagline }}</p>
   <img style="position: absolute; width: 32px; top: -2em" src="https://i.ibb.co/rvY9W4K/hahn.png" alt="hahn" border="0"/>
-  <hr style="border: 2px solid white; background: url('https://i.ibb.co/rvY9W4K/hahn.png') no-repeat top center">
+  <hr style="border: 2px solid white">
+  
+  <hr/>
 
   {% if site.data.navigation %}
     <nav class="nav pure-menu">
