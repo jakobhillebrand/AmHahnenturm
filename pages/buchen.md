@@ -47,6 +47,7 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 | &nbsp;&nbsp;&nbsp; bei 3+ Übernachtungen | € | &nbsp; | &nbsp;
 | über Sylvester, Altstadt- & Stadtmauerfest | € | &nbsp; | &nbsp;
 
+{::options parse_block_html="true" /}
 <div markdown="1">
 <small>
 ____________________<br/>
