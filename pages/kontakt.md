@@ -5,7 +5,7 @@ permalink: /kontakt/
 ---
 
 <p class="message">
-  Dirk & Monika Hillebrand \
-  Südliche Ringstraße 35 \
+  Dirk & Monika Hillebrand\\
+  Südliche Ringstraße 35\\
   67251 Freinsheim
 </p>
