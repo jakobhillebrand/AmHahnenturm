@@ -48,6 +48,7 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 | über Sylvester, Altstadt- & Stadtmauerfest | € 
 
 <br/>
+
 <small>
   <p id="note1">1: Hierzu zählen wir Bettwäsche, Handtücher, WLAN und eine Endreinigung.</p>
 </small>
