@@ -27,12 +27,12 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 | 2 Übernachtungen | € | €
 
 
-| Aufpreise | Left aligned | Center aligned 
-|:-|:-|:-:
-| für jede weitere Person bei | Second cell | Third cell 
-| ... 1–2 Übernachtung/en |€ | **strong** 
-| ... 3+ Übernachtungen |€ | baz 
-| über Sylvester, Altstadt- & Stadtmauerfest |€ | baz 
+| Aufpreise | Left aligned | &nbsp;
+|:-|:-|:-
+| für jede weitere Person bei | Second cell | &nbsp;
+| ... 1–2 Übernachtung/en | € | &nbsp;
+| ... 3+ Übernachtungen | € | &nbsp;
+| über Sylvester, Altstadt- & Stadtmauerfest | € | &nbsp;
 
 
 | Aufpreise | . | .
