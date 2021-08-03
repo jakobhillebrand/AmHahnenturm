@@ -29,9 +29,9 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 | Aufpreise
 |:-
 | für jede weitere Person bei 
-| ... 1–2 Übernachtung/en | € 
-| ... 3+ Übernachtungen | €
-|über Sylvester, Altstadt- & Stadtmauerfest | €
+| ... 1–2 Übernachtung/en | € ||
+| ... 3+ Übernachtungen | € ||
+|über Sylvester, Altstadt- & Stadtmauerfest | € ||
 
 
 <!-- BEISPIEL-TABELLE
