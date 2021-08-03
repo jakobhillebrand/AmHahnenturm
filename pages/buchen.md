@@ -21,6 +21,12 @@ Unten sehen Sie alle derzeitigen Belegungen. – Hoffen Sie mal, dass für Sie f
 |===
 | Endreinigung | € 
 
+<small class="align-right"><a href="https://www.belegungskalender-kostenlos.de/" rel="nofollow">Belegungskalender online</a></small>
+<p style="font-size:9px; text-align:right"><a href="https://www.belegungskalender-kostenlos.de/" rel="nofollow">Belegungskalender online</a></p>
+
+
+<!-- BEISPIEL-TABELLE
+
 | Default aligned | Left aligned | Center aligned | Right aligned
 |-|:-|:-:|-:
 | First body part | Second cell | Third cell | fourth cell
@@ -32,5 +38,4 @@ Unten sehen Sie alle derzeitigen Belegungen. – Hoffen Sie mal, dass für Sie f
 |===
 | Footer row
 
-
-<p style="font-size:9px; text-align:right"><a href="https://www.belegungskalender-kostenlos.de/" rel="nofollow">Belegungskalender online</a></p>
+-->
