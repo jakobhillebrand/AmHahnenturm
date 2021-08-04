@@ -17,7 +17,7 @@ Unsere Ferienwohnung im **mediterran-warmen Stil** bietet Ihnen die Möglichkeit
 - für bis zu 4 Personen
 - 3 Zimmer
   - 2 Schlafzimmer
-    - 1 Zimmer Doppelbett
+    - 1 Zimmer mit Doppelbett
     - 1 Durchgangszimmer mit Stapelbett (2 Personen) <br/> <small>(*Lattenrost mit guter Matratze, KEIN Ausziehsofa*)</small>
   - 1 Hauptzimmer mit
     - Wohn- & Essbereich
