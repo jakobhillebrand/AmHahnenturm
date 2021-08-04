@@ -14,5 +14,5 @@ Bevor Sie uns kontaktieren, empfehlen wir jedoch, dass Sie sich im [Buchungskale
   Südliche Ringstraße 35 <br/>
   67251 Freinsheim  <br/><br/>
   E-Mail: <a href= "mailto:hillebrands@web.de">hillebrands@web.de</a> <br/>
-  Telefon: +49 6353 508872
+  Telefon: +49 (0) 6353 508872
 </p>
