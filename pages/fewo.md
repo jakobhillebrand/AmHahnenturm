@@ -22,7 +22,7 @@ Unsere Ferienwohnung im **mediterran-warmen Stil** bietet Ihnen die Möglichkeit
     <u>Wohn- & Essbereich</u>
     - Sat-Flach-TV
     - Stereoanlage
-    - DVD-Player <br/>
+    - DVD-Player </li><br/>
   <u>Küche</u>
     - Geschirr, Besteck, Töpfe
     - Zweiplattenherd
