@@ -12,6 +12,7 @@ image_sliders: fewo_slider
 {% include slider.html selector="fewo_slider" %}
 </div>
 
+<br/>
 Unsere Ferienwohnung im **mediterran-warmen Stil** bietet Ihnen die Möglichkeit einer erholsamen Einrichtung und eine zentrale Lage. Sie liegt in Freinsheim, nahe der Deutschen Weinstraße, direkt an der mittelalterlichen **Stadtmauer** der örtlichen Altstadt. Aus dem Fenster können Sie sogleich den Hahnenturm bewundern.
 
 ***
