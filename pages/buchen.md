@@ -37,7 +37,7 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 | 3 Übernachtungen | € | €
 | 4–9 Übernachtungen | € | €
 | 10–13 Übernachtungen | € | €
-| 14+ Übernachtungen | € | €
+| 14+ Übernachtungen<sup>[2](#note2)</sup> | € | €
 
 
 | Aufpreise | &nbsp;
@@ -50,22 +50,6 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 <br/>
 
 <p>
-  <small id="note1">1: Hierzu zählen wir Bettwäsche, Handtücher, WLAN und eine Endreinigung.</small>
+  <small id="note1">1: Hierzu zählen wir Bettwäsche, Handtücher, WLAN und eine Endreinigung.</small><br/>
+  <small id="note2">2: Je nach Mietdauer ist natürlich auch ein Wäschewechsel und eine Zwischenreinigung möglich.</small>
 </p>
-
-
-
-<!-- BEISPIEL-TABELLE
-
-| Default aligned | Left aligned | Center aligned | Right aligned
-|-|:-|:-:|-:
-| First body part | Second cell | Third cell | fourth cell
-| Second line |foo | **strong** | baz
-| Third line |quux | baz | bar
-|---
-| Second body
-| 2 line
-|===
-| Footer row
-
--->
