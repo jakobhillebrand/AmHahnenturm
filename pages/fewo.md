@@ -17,7 +17,7 @@ Unsere Ferienwohnung im **mediterran-warmen Stil** bietet Ihnen die Möglichkeit
 - 3 Zimmer
   - 2 Schlafzimmer: <br/>
     - 1 Zimmer Doppelbett
-    - 1 Durchgangszimmer mit Stapelbett (2 Personen) <br/> <small>&nbsp;&nbsp;(Lattenrost mit guter Matratze, KEIN Ausziehsofa)</small>
+    - 1 Durchgangszimmer mit Stapelbett (2 Personen) <br/> <small>&nbsp;&nbsp;&nbsp;&nbsp;(Lattenrost mit guter Matratze, KEIN Ausziehsofa)</small>
   - 1 Hauptzimmer mit Wohn- & Essbereich sowie offener Küche
 - Bad mit WC & Dusche
 - Garderobe im Eingangsbereich
