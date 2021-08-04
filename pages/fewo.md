@@ -15,13 +15,15 @@ Unsere Ferienwohnung im **mediterran-warmen Stil** bietet Ihnen die Möglichkeit
 ## Ausstattung
 - 44 m<sup>2</sup>, 1. Stock, separater Eingang
 - 3 Zimmer
-  - 2 Schlafzimmer: <br/>
+  - 2 Schlafzimmer
     - 1 Zimmer Doppelbett
     - 1 Durchgangszimmer mit Stapelbett (2 Personen) <br/> <small>(Lattenrost mit guter Matratze, KEIN Ausziehsofa)</small>
   - 1 Hauptzimmer mit
-    - <u>Wohn- & Essbereich</u>
+    - Wohn- & Essbereich
+    <small>
       - Sat-Flach-TV, DVD-Player
       - Stereoanlage
+    </small>
     - <u>Küche</u>
       - Geschirr, Besteck, Töpfe
       - Zweiplattenherd
