@@ -54,6 +54,17 @@ figure {
   position: relative;
 }
 
+figcaption {
+  background: rgba(0, 0, 0, 0.4);
+  color: white;
+  font-size: 80%;
+  padding: .5em 0 .5em .5em;
+  position: absolute;
+  bottom: 0;
+  text-align: left;
+  width: 100%;
+}
+
 img {
   display: block;
   max-width: 100%;
