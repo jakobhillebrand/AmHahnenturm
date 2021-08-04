@@ -46,6 +46,7 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 | &nbsp;&nbsp;&nbsp; bei 1–2 Übernachtung/en | € 
 | &nbsp;&nbsp;&nbsp; bei 3+ Übernachtungen | € 
 | über Sylvester, Altstadt- & Stadtmauerfest | € 
+| „Hahnenturm“-Frühstück | €
 
 <br/>
 
