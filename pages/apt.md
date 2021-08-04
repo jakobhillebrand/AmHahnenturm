@@ -13,23 +13,18 @@ Unser Apartment im **mediterran-warmen Stil** bietet Ihnen wie unsere Ferienwohn
 
 
 ## Ausstattung
-- 44 m<sup>2</sup>, 1. Stock, separater Eingang
-- 3 Zimmer
-  - 2 Schlafzimmer
-    - 1 Zimmer Doppelbett
-    - 1 Durchgangszimmer mit Stapelbett (2 Personen) <br/> <small>(*Lattenrost mit guter Matratze, KEIN Ausziehsofa*)</small>
-  - 1 Hauptzimmer mit
-    - Wohn- & Essbereich
-      - <small>Sat-Flach-TV, DVD-Player</small>
-      - <small>Stereoanlage</small>
-    - Küche
-      - <small>Geschirr, Besteck, Töpfe</small>
-      - <small>Zweiplattenherd</small>
-      - <small>Kühlschrank mit TK-Fach</small>
-      - <small>Mini-Backofen</small>
-      - <small>Kaffeemaschine, Mikrowelle, Wasserkocher, Eierkocher, Toaster</small>
+- ?? m<sup>2</sup>, Erdgeschoss, separater Eingang
+- für bis zu 2 Personen
+- 2 Zimmer
+  - 1 Schlafzimmer mit Doppelbett
+    - <small>Sat-Flach-TV</small>
+  - Küche mit Ess-Ecke
+    - <small>Geschirr, Besteck, Töpfe</small>
+    - <small>Zweiplattenherd</small>
+    - <small>Kühlschrank mit TK-Fach</small>
+    - <small>Kaffeemaschine, Mikrowelle, Wasserkocher, Eierkocher, Toaster</small>
 - Bad mit WC & Dusche
-- Garderobe im Eingangsbereich
+- Garderobe im Flur
 - Sitzgruppe im Hof <br/>
   **Rauchen ist in der Wohnung nicht gestattet!**
 - WLAN
