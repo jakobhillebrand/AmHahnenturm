@@ -5,6 +5,9 @@ title: Ferienwohnung
 image_sliders: fewo_slider
 ---
 
+> ... vllt noch eine nette Gastaussage\
+> <sup><sub>*Unsere Gäste*</sub></sup>
+
 <div class="align-right" style="width: 66%">
 {% include slider.html selector="fewo_slider" %}
 </div>
