@@ -17,17 +17,17 @@ Unsere Ferienwohnung im **mediterran-warmen Stil** bietet Ihnen die Möglichkeit
 - 3 Zimmer
   - 2 Schlafzimmer
     - 1 Zimmer Doppelbett
-    - 1 Durchgangszimmer mit Stapelbett (2 Personen) <br/> <small>(Lattenrost mit guter Matratze, KEIN Ausziehsofa)</small>
+    - 1 Durchgangszimmer mit Stapelbett (2 Personen) <br/> <small>(*Lattenrost mit guter Matratze, KEIN Ausziehsofa*)</small>
   - 1 Hauptzimmer mit
     - Wohn- & Essbereich
       - <small>Sat-Flach-TV, DVD-Player</small>
       - <small>Stereoanlage</small>
     - <u>Küche</u>
-      - Geschirr, Besteck, Töpfe
-      - Zweiplattenherd
-      - Kühlschrank mit TK-Fach
-      - Mini-Backofen
-      - Kaffeemaschine, Mikrowelle, Wasserkocher, Eierkocher, Toaster
+      - <small>Geschirr, Besteck, Töpfe</small>
+      - <small>Zweiplattenherd</small>
+      - <small>Kühlschrank mit TK-Fach</small>
+      - <small>Mini-Backofen</small>
+      - <small>Kaffeemaschine, Mikrowelle, Wasserkocher, Eierkocher, Toaster</small>
 - Bad mit WC & Dusche
 - Garderobe im Eingangsbereich
 - Sitzgruppe im Hof
