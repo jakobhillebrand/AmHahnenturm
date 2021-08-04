@@ -5,8 +5,6 @@ title: Ferienwohnung
 image_sliders: fewo_slider
 ---
 
-This is the home page. fewo
-
 <div class="align-right" style="width: 66%">
 {% include slider.html selector="fewo_slider" %}
 </div>
