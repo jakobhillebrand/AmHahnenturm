@@ -17,8 +17,8 @@ Die Ferienwohnung umfasst 44 m<sup>2</sup> und liegt im 1. Stock mit separatem E
 - 44 m<sup>2</sup>, 1. Stock, separater Eingang
 - 3 Zimmer
   - 2 Schlafzimmer: <br/>
-    1. 1 Zimmer Doppelbett
-    2. 1 Durchgangszimmer mit Stapelbett (2 Personen) <br/> (Lattenrost mit guter Matratze, KEIN Ausziehsofa)
+    - 1 Zimmer Doppelbett
+    - 1 Durchgangszimmer mit Stapelbett (2 Personen) <br/> (Lattenrost mit guter Matratze, KEIN Ausziehsofa)
 - Garderobe im Eingangsbereich
 - Bad mit WC & Dusche
 
