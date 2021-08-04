@@ -23,7 +23,7 @@
 
 - selector: apt_slider
   captions: true
-  bullets: false
+  bullets: true
   images:
     - src: https://via.placeholder.com/600x300
       alt: image one
