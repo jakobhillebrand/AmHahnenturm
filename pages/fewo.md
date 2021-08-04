@@ -14,6 +14,7 @@ Unsere Ferienwohnung im **mediterran-warmen Stil** bietet Ihnen die Möglichkeit
 
 ## Ausstattung
 - 44 m<sup>2</sup>, 1. Stock, separater Eingang
+- für bis zu 4 Personen
 - 3 Zimmer
   - 2 Schlafzimmer
     - 1 Zimmer Doppelbett
