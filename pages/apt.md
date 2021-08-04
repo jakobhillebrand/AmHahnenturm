@@ -5,10 +5,35 @@ title: Apartment
 image_sliders: apt_slider
 ---
 
-This is the home page. fewo
-
 <div class="align-right" style="width: 66%">
 {% include slider.html selector="apt_slider" %}
 </div>
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Unser Apartment im **mediterran-warmen Stil** bietet Ihnen wie unsere Ferienwohnung einen Grundstein zur Entspannung. Es liegt in Freinsheim, nahe der Deutschen Weinstraße, direkt an der mittelalterlichen **Stadtmauer** der örtlichen Altstadt.
+
+
+## Ausstattung
+- 44 m<sup>2</sup>, 1. Stock, separater Eingang
+- 3 Zimmer
+  - 2 Schlafzimmer
+    - 1 Zimmer Doppelbett
+    - 1 Durchgangszimmer mit Stapelbett (2 Personen) <br/> <small>(*Lattenrost mit guter Matratze, KEIN Ausziehsofa*)</small>
+  - 1 Hauptzimmer mit
+    - Wohn- & Essbereich
+      - <small>Sat-Flach-TV, DVD-Player</small>
+      - <small>Stereoanlage</small>
+    - Küche
+      - <small>Geschirr, Besteck, Töpfe</small>
+      - <small>Zweiplattenherd</small>
+      - <small>Kühlschrank mit TK-Fach</small>
+      - <small>Mini-Backofen</small>
+      - <small>Kaffeemaschine, Mikrowelle, Wasserkocher, Eierkocher, Toaster</small>
+- Bad mit WC & Dusche
+- Garderobe im Eingangsbereich
+- Sitzgruppe im Hof <br/>
+  **Rauchen ist in der Wohnung nicht gestattet!**
+- WLAN
+- Abstellmöglichkeit für Fahrräder
+
+Bäckereien und Einkaufsmöglichkeiten liegen zwischen 300 und 1000 m entfernt. Morgens bereiten wir Ihnen auch gerne auf Anfrage unser **„Hahnenturm“-Frühstück** zu.\
+Wenn Sie ein kulinarischers Erlebnis, eine romantische Kutschfahrt durch den Ort, eine erlesene Weinprobe oder ähnliches anstreben, helfen wir Ihnen gerne bei der Planung.
