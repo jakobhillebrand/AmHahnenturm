@@ -20,10 +20,8 @@ Unsere Ferienwohnung im **mediterran-warmen Stil** bietet Ihnen die Möglichkeit
     - 1 Durchgangszimmer mit Stapelbett (2 Personen) <br/> <small>(Lattenrost mit guter Matratze, KEIN Ausziehsofa)</small>
   - 1 Hauptzimmer mit
     - Wohn- & Essbereich
-    <small>
-      - Sat-Flach-TV, DVD-Player
-      - Stereoanlage
-    </small>
+      - <small>Sat-Flach-TV, DVD-Player</small>
+      - <small>Stereoanlage</small>
     - <u>Küche</u>
       - Geschirr, Besteck, Töpfe
       - Zweiplattenherd
