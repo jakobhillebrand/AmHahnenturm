@@ -1,8 +1,5 @@
 title:            Am Hahnenturm
 tagline:          Erholung in der Pfalz
-
-author:
-  name:           Hillebrand
   
 markdown:         kramdown
 highlighter:      rouge
