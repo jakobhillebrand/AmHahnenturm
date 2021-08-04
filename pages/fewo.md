@@ -37,5 +37,3 @@ Unsere Ferienwohnung im **mediterran-warmen Stil** bietet Ihnen die Möglichkeit
 
 Bäckereien und Einkaufsmöglichkeiten liegen zwischen 300 und 1000 m entfernt. Morgens bereiten wir Ihnen auch gerne auf Anfrage unser **„Hahnenturm“-Frühstück** zu.\
 Wenn Sie ein kulinarischers Erlebnis, eine romantische Kutschfahrt durch den Ort, eine erlesene Weinprobe oder ähnliches anstreben, helfen wir Ihnen gerne bei der Planung.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
