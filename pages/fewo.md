@@ -30,7 +30,7 @@ Unsere Ferienwohnung im **mediterran-warmen Stil** bietet Ihnen die Möglichkeit
       - <small>Kaffeemaschine, Mikrowelle, Wasserkocher, Eierkocher, Toaster</small>
 - Bad mit WC & Dusche
 - Garderobe im Eingangsbereich
-- Sitzgruppe im Hof
-  Rauchen ist in der Wohnung nicht gestattet!
+- Sitzgruppe im Hof <br/>
+  **Rauchen ist in der Wohnung nicht gestattet!**
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
