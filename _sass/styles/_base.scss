@@ -132,6 +132,10 @@ hr {
   border-top: 1px solid var(--border-color);
 }
 
+.hl {
+  color: var(--message-bg);
+}
+
 abbr {
   font-weight: bold;
   text-transform: uppercase;
