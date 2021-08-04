@@ -12,7 +12,7 @@ image_sliders: apt_slider
 {% include slider.html selector="apt_slider" %}
 </div>
 
-
+<br/>
 Unser Apartment im **mediterran-warmen Stil** bietet Ihnen wie unsere Ferienwohnung einen Grundstein zur Entspannung. Es liegt in Freinsheim, nahe der Deutschen Weinstraße, direkt an der mittelalterlichen **Stadtmauer**, einer der schönsten und am besten erhaltenen Befestigungsanlagen der Pfalz.
 
 ***
