@@ -25,4 +25,4 @@ Die Löschung der gespeicherten personenbezogenen Daten erfolgt, wenn Sie Ihre E
 Auf schriftliche Anfrage werden wir Sie gern über die zu Ihrer Person gespeicherten Daten informieren.
 
 ### Sicherheitshinweis
-Wir sind bemüht, Ihre personenbezogenen Daten durch Ergreifung aller technischen und organisatorischen Möglichkeiten so zu speichern, dass sie für Dritte nicht zugänglich sind. Bei der Kommunikation per E Mail kann die vollständige Datensicherheit von uns nicht gewährleistet werden, so dass wir Ihnen bei vertraulichen Informationen den Postweg empfehlen
+Wir sind bemüht, Ihre personenbezogenen Daten durch Ergreifung aller technischen und organisatorischen Möglichkeiten so zu speichern, dass sie für Dritte nicht zugänglich sind. Bei der Kommunikation per E Mail kann die vollständige Datensicherheit von uns nicht gewährleistet werden, so dass wir Ihnen bei vertraulichen Informationen den Postweg empfehlen.
