@@ -9,7 +9,7 @@ image_sliders: fewo_slider
 {% include slider.html selector="fewo_slider" %}
 </div>
 
-Unsere Ferienwohnung im **mediterran-warmen Stil** bietet Ihnen die Möglichkeit einer erholsamen Einrichtung und eine zentrale Lage. Sie liegt in Freinsheim, nahe der Deutschen Weinstraße, direkt an der mittelalterlichen **Stadtmauer**, eine der schönsten und am besten erhaltenen Befestigungsanlagen der Pfalz.
+Unsere Ferienwohnung im **mediterran-warmen Stil** bietet Ihnen die Möglichkeit einer erholsamen Einrichtung und eine zentrale Lage. Sie liegt in Freinsheim, nahe der Deutschen Weinstraße, direkt an der mittelalterlichen **Stadtmauer**, einer der schönsten und am besten erhaltenen Befestigungsanlagen der Pfalz.
 
 
 ## Ausstattung
