@@ -15,5 +15,3 @@ Bevor Sie uns kontaktieren, empfehlen wir jedoch, dass Sie sich im [Buchungskale
   E-Mail: <a href= "mailto:hillebrands@web.de">hillebrands@web.de</a> <br/>
   Telefon: +49 (0) 6353 508872
 </p>
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam etLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et
