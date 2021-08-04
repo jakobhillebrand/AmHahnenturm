@@ -9,3 +9,5 @@ highlighter:      rouge
   
 plugins:
   - jekyll-seo-tag
+  
+google_analytics: -
