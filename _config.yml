@@ -10,4 +10,4 @@ highlighter:      rouge
 plugins:
   - jekyll-seo-tag
   
-google_analytics: -
+google_analytics: UA—XXXXXXXX-X
