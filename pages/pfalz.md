@@ -20,5 +20,5 @@ Hier in **Freinsheim & Umbegung** befinden sich im nahe gelegenen Pfälzer Wald 
 
 ***
 
-Hier haben wir für Sie noch ein paar hilfreiche Links:\
+Hier haben wir für Sie noch ein paar hilfreiche Links:
 - [Veranstaltungskalender Freinsheim](https://www.urlaubsregion-freinsheim.de/de/erleben-sie-die-urlaubsregion-freinsheim/veranstaltungen){:target="_blank"}
