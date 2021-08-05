@@ -8,7 +8,7 @@ image_sliders: apt_slider
 > ... vllt noch eine nette Gastaussage\
 > <sup><sub>*Unsere Gäste*</sub></sup>
 
-<div class="align-right" style="width: 66%">
+<div class="slider align-right" style="width: 66%">
 {% include slider.html selector="apt_slider" %}
 </div>
 
