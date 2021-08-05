@@ -7,7 +7,7 @@ title: Anfahrt
 Da wir am Rand der ruhigen Altstadt gelegen sind, kann die Anfahrt und das Parken dementsprechend anfangs etwas anspruchsvoll sein.\
 Sie können sich daher diese Seite auch gerne für die Reise <a href="" onclick="print();">ausdrucken</a>. (Notiz: vllt besser Liste als PDF)
 
-<div>
+<div style="display: grid; grid-template-columns: 50% 50%">
   <p class="message">
     Dirk & Monika Hillebrand <br/><br/>
     Südliche Ringstraße 35 <br/>
