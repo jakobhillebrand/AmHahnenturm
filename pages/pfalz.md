@@ -11,7 +11,7 @@ title: Die Pfalz
 
 Als eines der größten Weinanbaugebiete Deutschlands bietet die rheinländische Pfalz schon seit Jahrhunderten eine einzigartige Kulisse von Natur und Kultur. Über die Kelten und Römer hin zu den Franzosen wussten bereits einige Völker die Pfalz zu schätzen. So hat sie heute ein reiches Angebot an Geschichte, Naturbildern und Kulinarik – da findet jeder einen Grund, sich in die Gegend zu verlieben.
 
-<figure class="align-right">
+<figure class="align-right img-fit">
   <img class="img-fit" src="https://pfalz-shop.de/media/image/4b/f0/c0/Pfalz-Shop-Hintergrundbild.png" style="width:400px;">
   <figcaption>eigenes Bild mit spez. Ort</figcaption>
 </figure>
