@@ -8,11 +8,10 @@ Da wir am Rand der ruhigen Altstadt gelegen sind, kann die Anfahrt und das Parke
 Sie können sich daher diese Seite auch gerne für die Reise <a href="" onclick="print();">ausdrucken</a>. (Notiz: vllt besser Liste als PDF)
 
 <p class="message">
+  <b>Adresse:</b> <br/><br/>
   Dirk & Monika Hillebrand <br/><br/>
   Südliche Ringstraße 35 <br/>
-  67251 Freinsheim  <br/><br/>
-  E-Mail: <a href= "mailto:hillebrands@web.de">hillebrands@web.de</a> <br/>
-  Telefon: +49 (0) 6353 508872
+  67251 Freinsheim
 </p>
 
 <small>
