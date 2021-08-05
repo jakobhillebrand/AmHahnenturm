@@ -6,19 +6,6 @@ title: Anfahrt
 
 Da wir am Rand der ruhigen Altstadt gelegen sind, kann die Anfahrt und das Parken dementsprechend anfangs etwas anspruchsvoll sein.\
 Sie können sich daher diese Seite auch gerne für die Reise <a href="" onclick="print();">ausdrucken</a>. (Notiz: vllt besser Liste als PDF)
-
-<div>
-  <p class="message" style="width: 50%">
-    <b>Adresse:</b> <br/>
-    Fam. Hillebrand <br/>
-    Südliche Ringstraße 35 <br/>
-    67251 Freinsheim
-  </p>
-  <figure class="align-right img-fit" style="width: 50%;">
-    <img class="img-fit" src="https://pfalz-shop.de/media/image/4b/f0/c0/Pfalz-Shop-Hintergrundbild.png">
-    <figcaption>Fassade</figcaption>
-  </figure>
-</div
   
 <div class="footer pure-g">
   <div class="pure-u-1 pure-u-md-1-2">
@@ -30,7 +17,7 @@ Sie können sich daher diese Seite auch gerne für die Reise <a href="" onclick=
     </p>
   </div>
   <div class="pure-u-1 pure-u-md-1-2">
-    <figure class="align-right img-fit" style="width: 50%;">
+    <figure class="align-right img-fit">
       <img class="img-fit" src="https://pfalz-shop.de/media/image/4b/f0/c0/Pfalz-Shop-Hintergrundbild.png">
       <figcaption>Fassade</figcaption>
     </figure>
