@@ -7,9 +7,9 @@ title: Anfahrt
 Da wir am Rand der ruhigen Altstadt gelegen sind, kann die Anfahrt und das Parken dementsprechend anfangs etwas anspruchsvoll sein.\
 Sie können sich daher diese Seite auch gerne für die Reise <a href="" onclick="print();">ausdrucken</a>. (Notiz: vllt besser Liste als PDF)
 
-<p class="message">
+<p class="message" style="min-width: 50%">
   <b>Adresse:</b> <br/><br/>
-  Dirk & Monika Hillebrand <br/><br/>
+  Dirk & Monika Hillebrand <br/>
   Südliche Ringstraße 35 <br/>
   67251 Freinsheim
 </p>
