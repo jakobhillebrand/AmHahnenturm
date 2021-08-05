@@ -8,18 +8,7 @@ image_sliders: fewo_slider
 > ... vllt noch eine nette Gastaussage\
 > <sup><sub>*Unsere Gäste*</sub></sup>
 
-<style>
-  .slider {
-    width: 66%;
-  }
-  @media (min-width: $sm-screen) {
-    .slider {
-      width: 100%;
-    }
-  }
-</style>
-
-<div class="slider align-right">
+<div class="slider align-right" style="width: 66%">
 {% include slider.html selector="fewo_slider" %}
 </div>
 
