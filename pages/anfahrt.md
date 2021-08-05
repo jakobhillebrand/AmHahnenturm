@@ -7,37 +7,21 @@ title: Anfahrt
 Da wir am Rand der ruhigen Altstadt gelegen sind, kann die Anfahrt und das Parken dementsprechend anfangs etwas anspruchsvoll sein.\
 Sie können sich daher diese Seite auch gerne für die Reise <a href="" onclick="print();">ausdrucken</a>. (Notiz: vllt besser Liste als PDF)
 
-<p class="message">
-  Dirk & Monika Hillebrand <br/><br/>
-  Südliche Ringstraße 35 <br/>
-  67251 Freinsheim  <br/><br/>
-  E-Mail: <a href= "mailto:hillebrands@web.de">hillebrands@web.de</a> <br/>
-  Telefon: +49 (0) 6353 508872
-</p>
+<div>
+  <p class="message">
+    Dirk & Monika Hillebrand <br/><br/>
+    Südliche Ringstraße 35 <br/>
+    67251 Freinsheim  <br/><br/>
+    E-Mail: <a href= "mailto:hillebrands@web.de">hillebrands@web.de</a> <br/>
+    Telefon: +49 (0) 6353 508872
+  </p>
 
-<figure class="align-right img-fit">
-      <img class="img-fit" src="https://pfalz-shop.de/media/image/4b/f0/c0/Pfalz-Shop-Hintergrundbild.png">
-      <figcaption>Fassade</figcaption>
-    </figure>
-
-***
-
-<div pure-g">
-  <div class="pure-u-1 pure-u-md-1-2">
-    <p class="message" style="width: 100%">
-      <b>Adresse:</b> <br/>
-      Fam. Hillebrand <br/>
-      Südliche Ringstraße 35 <br/>
-      67251 Freinsheim
-    </p>
-  </div>
-  <div class="pure-u-1 pure-u-md-1-2">
-    <figure class="align-right img-fit">
-      <img class="img-fit" src="https://pfalz-shop.de/media/image/4b/f0/c0/Pfalz-Shop-Hintergrundbild.png">
-      <figcaption>Fassade</figcaption>
-    </figure>
-  </div>
+  <figure class="align-right img-fit">
+    <img class="img-fit" src="https://pfalz-shop.de/media/image/4b/f0/c0/Pfalz-Shop-Hintergrundbild.png">
+    <figcaption>Fassade</figcaption>
+  </figure>
 </div>
+
 
 <small>
 Manche Navigationsgeräte scheinen komischerweise unsere Straße nicht zu kennen. Falls dies bei Ihnen der Fall sein sollte, geben Sie bitte alternativ die „Bärengasse“ oder „Auf der Schanz“ ein. Eine genauere Verortung können Sie der Karte unten entnehmen.
