@@ -9,7 +9,7 @@ Sie können sich daher diese Seite auch gerne für die Reise <a href="" onclick=
   
 <div class="footer pure-g">
   <div class="pure-u-1 pure-u-md-1-2">
-    <p class="message">
+    <p class="message" style="width: 100%">
       <b>Adresse:</b> <br/>
       Fam. Hillebrand <br/>
       Südliche Ringstraße 35 <br/>
