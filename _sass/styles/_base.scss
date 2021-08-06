@@ -78,6 +78,10 @@ img {
 }
 
 @media (max-width: $md-screen) {
+  figure {
+    margin: 0!important;
+  }
+  
   .slider, .img-fit {
     width: 100%!important;
     display: block;
