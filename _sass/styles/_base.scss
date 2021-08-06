@@ -84,8 +84,11 @@ img {
     margin-right: auto;
     margin-left: auto;
   }
-  .sllider + p, .img-fit + p {
+  .img-fit + p {
     margin-block-start: 75%!important;
+  }
+  .slider + p {
+    margin-block-start: 61%!important;
   }
 }
 
