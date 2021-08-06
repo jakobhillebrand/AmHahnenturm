@@ -78,7 +78,7 @@ img {
 }
 
 @media (max-width: $md-screen) {
-  .img-container, .slider {
+  .img-pad, .slider {
     padding: 0 0 1em;
   }
   .slider, .img-fit {
