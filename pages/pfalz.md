@@ -17,7 +17,7 @@ Als eines der größten Weinanbaugebiete Deutschlands bietet die rheinländische
 </figure>
 <div class="img-pad"></div>
 
-Hier in **Freinsheim & Umbegung** befinden sich im nahe gelegenen Pfälzer Wald Keltenwälle und römische Steinbrüche. In keiner anderen Region Deutschlands lässt sich eine solche Hüttendichte finden, jeder schmalste Pfad hat ein ausgeschildertes Ziel. Unsere Kreisstadt Bad Dürkheim ist wohl vor allem bekannt für den alljährlichen Wurstmarkt am Dürkheimer Riesenheim und die heilspendende Saline. Die gepflegten Rebenterrassen laden zu gemütlichen Spaziergängen ein und gönnen einen übberragenden Ausblick auf die flache Weinlandschaft, insbesondere wenn die Abendsonne die früchtetragenden Reihen in ein warmes Licht hüllt.{: .align-left }
+Hier in **Freinsheim & Umbegung** befinden sich im nahe gelegenen Pfälzer Wald Keltenwälle und römische Steinbrüche. In keiner anderen Region Deutschlands lässt sich eine solche Hüttendichte finden, jeder schmalste Pfad hat ein ausgeschildertes Ziel. Unsere Kreisstadt Bad Dürkheim ist wohl vor allem bekannt für den alljährlichen Wurstmarkt am Dürkheimer Riesenheim und die heilspendende Saline. Die gepflegten Rebenterrassen laden zu gemütlichen Spaziergängen ein und gönnen einen übberragenden Ausblick auf die flache Weinlandschaft, insbesondere wenn die Abendsonne die früchtetragenden Reihen in ein warmes Licht hüllt.
 
 ***
 
