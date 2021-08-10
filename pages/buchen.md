@@ -26,7 +26,7 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
     width: fit-content;
   }
   td, th {
-    padding-right: 1.5em;
+    padding-right: 1em;
   }
 </style>
 
