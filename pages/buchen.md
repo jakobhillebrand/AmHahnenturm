@@ -14,7 +14,7 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 
 <sup style="margin-top:2em" class="align-right"><sub><a href="https://www.belegungskalender-kostenlos.de/" target="_blank" rel="nofollow">*via Webservice*</a></sub></sup>
 ## Buchungskalender
-<iframe width="100%" height="400" frameborder="0" loading="eager" referrerpolicy="no-referrer-when-downgrade" src="https://api.belegungskalender-kostenlos.de/kalender.php?   kid=42801" title="Belegungskalender"><p>Ihr Browser kann das Kalender-Frame leider nicht anzeigen. Um den Kalender zu sehen klicken Sie bitte hier: <a href="https://api.belegungskalender-kostenlos.de/kalender.php?kid=42801">https://api.belegungskalender-kostenlos.de/kalender.php?kid=42801</a></p></iframe>
+<iframe width="100%" height="400" frameborder="0" referrerpolicy="no-referrer-when-downgrade" src="https://api.belegungskalender-kostenlos.de/kalender.php?   kid=42801" title="Belegungskalender"><p>Ihr Browser kann das Kalender-Frame leider nicht anzeigen. Um den Kalender zu sehen klicken Sie bitte hier: <a href="https://api.belegungskalender-kostenlos.de/kalender.php?kid=42801">https://api.belegungskalender-kostenlos.de/kalender.php?kid=42801</a></p></iframe>
 
 ***
 
@@ -32,20 +32,20 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 
 | Preise <br/><small>2 Personen inkl. NK<sup>[1](#note1)</sup></small> | Ferien&shy;wohnung | Apart&shy;ment
 |:-|:-|:-
-| 1 Nacht | € | €
-| 2 Nächte | € | €
-| 3 Nächte | € | €
-| 4–9 Nächte | € | €
-| 10–13 Nächte | € | €
-| 14+ Nächte<sup>[2](#note2)</sup> | € | €
+| 1 Nacht | 85 € | 70 €
+| 2 Nächte | 59 € | 48 €
+| 3 Nächte | 55 € | €
+| 4–9 Nächte | 50 € | €
+| 10–13 Nächte | 45 € | €
+| 14+ Nächte<sup>[2](#note2)</sup> | 40 € | 37 €
 
 
 | Aufpreise | &nbsp;
 |:-|:-
 | für jede weitere Person 
-| &nbsp;&nbsp;&nbsp; bei 1–2 Nacht/Nächte | € 
-| &nbsp;&nbsp;&nbsp; bei 3+ Nächte | € 
-| über Sylvester, Altstadt- & Stadtmauerfest | € 
+| &nbsp;&nbsp;&nbsp; bei 1–2 Nacht/Nächte | 15 € 
+| &nbsp;&nbsp;&nbsp; bei 3+ Nächte | 10 € 
+| über Sylvester, Altstadt- & Stadtmauerfest | 20 € 
 | „Hahnenturm“-Frühstück | €
 
 <br/>
