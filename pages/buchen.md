@@ -32,19 +32,19 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 
 | Preise für bis zu 2 Personen inkl. NK<sup>[1](#note1)</sup> | Ferien&shy;wohnung | Apart&shy;ment
 |:-|:-|:-
-| 1 Übernachtung | € | €
-| 2 Übernachtungen | € | €
-| 3 Übernachtungen | € | €
-| 4–9 Übernachtungen | € | €
-| 10–13 Übernachtungen | € | €
-| 14+ Übernachtungen<sup>[2](#note2)</sup> | € | €
+| 1 Nacht | € | €
+| 2 Nächte | € | €
+| 3 Nächte | € | €
+| 4–9 Nächte | € | €
+| 10–13 Nächte | € | €
+| 14+ Nächte<sup>[2](#note2)</sup> | € | €
 
 
 | Aufpreise | &nbsp;
 |:-|:-
 | für jede weitere Person 
-| &nbsp;&nbsp;&nbsp; bei 1–2 Übernachtung/en | € 
-| &nbsp;&nbsp;&nbsp; bei 3+ Übernachtungen | € 
+| &nbsp;&nbsp;&nbsp; bei 1–2 Nacht/Nächte | € 
+| &nbsp;&nbsp;&nbsp; bei 3+ Nächte | € 
 | über Sylvester, Altstadt- & Stadtmauerfest | € 
 | „Hahnenturm“-Frühstück | €
 
