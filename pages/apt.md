@@ -17,6 +17,7 @@ Unser Apartment im **mediterran-warmen Stil** bietet Ihnen wie unsere Ferienwohn
 
 ***
 
+<style> ul, ul ul,ul ul ul,ul ul ul ul {margin-left: -0.5em}</style>
 ## Ausstattung
 - ?? m<sup>2</sup>, Erdgeschoss, separater Eingang
 - für bis zu 2 Personen
