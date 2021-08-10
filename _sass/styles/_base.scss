@@ -48,6 +48,10 @@ a {
   }
 }
 
+small {
+   line-height: var(--small-line-height);
+}
+
 figure {
   margin: 0;
   display: inline-block;
