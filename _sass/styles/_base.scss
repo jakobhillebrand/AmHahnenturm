@@ -49,7 +49,7 @@ a {
 }
 
 small {
-   line-height: var(--small-line-height);
+   display: inline-block;
 }
 
 figure {
