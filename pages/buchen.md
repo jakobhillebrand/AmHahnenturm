@@ -30,7 +30,7 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
   }
 </style>
 
-| Preise für bis zu 2 Personen inkl. NK<sup>[1](#note1)</sup> | Ferien&shy;wohnung | Apart&shy;ment
+| Preise <br/><small>für bis zu 2 Personen inkl. NK<sup>[1](#note1)</sup></small> | Ferien&shy;wohnung | Apart&shy;ment
 |:-|:-|:-
 | 1 Nacht | € | €
 | 2 Nächte | € | €
