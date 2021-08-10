@@ -26,11 +26,11 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
     width: fit-content;
   }
   td, th {
-    padding-right: 2em;
+    padding-right: 1.5em;
   }
 </style>
 
-| Preise für bis zu 2 Personen inkl. NK<sup>[1](#note1)</sup> | Ferienwohnung | Apartment
+| Preise für bis zu 2 Personen inkl. NK<sup>[1](#note1)</sup> | Ferien&shy;wohnung | Apart&shy;ment
 |:-|:-|:-
 | 1 Übernachtung | € | €
 | 2 Übernachtungen | € | €
