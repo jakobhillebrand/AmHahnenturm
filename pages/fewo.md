@@ -17,6 +17,12 @@ Unsere Ferienwohnung im **mediterran-warmen Stil** bietet Ihnen die Möglichkeit
 
 ***
 
+<style>
+  ul, 
+  ul ul,
+  ul ul ul,
+  ul ul ul ul {margin-left: -1em}
+</style>
 ## Ausstattung
 - 44 m<sup>2</sup>, 1. Stock, separater Eingang
 - für bis zu 4 Personen
