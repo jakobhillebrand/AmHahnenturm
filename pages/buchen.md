@@ -36,7 +36,7 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 | 2 Nächte | 59&nbsp;€ | 48&nbsp;€
 | 3 Nächte | 55&nbsp;€ | &nbsp;€
 | 4&ndash;9&nbsp;Nächte | 50&nbsp;€ | &nbsp;€
-| 10&ndash;13&nbsp;Nächte | 45&nbsp;€ | &nbsp;€
+| 10&#8288;&ndash;&#8288;13&nbsp;Nächte | 45&nbsp;€ | &nbsp;€
 | 14+&nbsp;Nächte<sup>[2](#note2)</sup> | 40&nbsp;€ | 37&nbsp;€
 
 
