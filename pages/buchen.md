@@ -35,16 +35,16 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 | 1 Nacht | 85&nbsp;€ | 70&nbsp;€
 | 2 Nächte | 59&nbsp;€ | 48&nbsp;€
 | 3 Nächte | 55&nbsp;€ | &nbsp;€
-| 4–9&nbsp;Nächte | 50&nbsp;€ | &nbsp;€
-| 10–13&nbsp;Nächte | 45&nbsp;€ | &nbsp;€
+| 4&ndash;9&nbsp;Nächte | 50&nbsp;€ | &nbsp;€
+| 10&ndash;13&nbsp;Nächte | 45&nbsp;€ | &nbsp;€
 | 14+&nbsp;Nächte<sup>[2](#note2)</sup> | 40&nbsp;€ | 37&nbsp;€
 
 
 | Aufpreise | &nbsp;
 |:-|:-
 | für jede weitere Person 
-| &nbsp;&nbsp;&nbsp; bei 1–2 Nacht/Nächte | 15&nbsp;€ 
-| &nbsp;&nbsp;&nbsp; bei 3+ Nächte | 10&nbsp;€ 
+| &nbsp;&nbsp;&nbsp; bei 1–2 Nächten | 15&nbsp;€ 
+| &nbsp;&nbsp;&nbsp; bei 3+ Nächten | 10&nbsp;€ 
 | über Sylvester, Altstadt- & Stadtmauerfest | 20&nbsp;€ 
 | „Hahnenturm“-Frühstück | &nbsp;€
 
