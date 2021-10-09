@@ -126,7 +126,8 @@ blockquote {
 
 table {
   margin: 1em 0;
-  width: 100%;
+  width: fit-content;
+  width: -moz-fit-content;
   border: 0 solid var(--border-color);
   border-collapse: collapse;
 }
