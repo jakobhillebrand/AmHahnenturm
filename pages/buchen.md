@@ -21,15 +21,6 @@ Im Anschluss finden Sie auch unsere [Preise](#preise) in der Übersicht, sowohl 
 ## Unsere Preise
 {: #preise}
 
-<style>
-  table {
-    width: fit-content;
-  }
-  td, th {
-    padding-right: 1em;
-  }
-</style>
-
 | Preise <br/><small>2 Personen inkl. NK<sup>[1](#note1)</sup></small> | Ferien&shy;wohnung | Apart&shy;ment
 |:-|:-|:-
 | 1 Nacht | 85&nbsp;€ | 70&nbsp;€
